@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Enrique Mendioroz
 192.168.56.1
 20.11 p.m
+=======
+Barrios Fernando, 201.235.2.121, 17:46
+>>>>>>> 65259efa5f7325182849b93ea78fdb143d364cd3

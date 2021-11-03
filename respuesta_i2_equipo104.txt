@@ -4,3 +4,6 @@ Barrios, Fernando
 Calanna, Cecilia
 
 Respuesta a las preguntas:
+
+a) Primero tuve que hacer un git push con mi branch y luego hacer un pull request.
+b) Si

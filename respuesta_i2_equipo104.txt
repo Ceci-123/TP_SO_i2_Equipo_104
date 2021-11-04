@@ -17,3 +17,34 @@ De todas maneras no resulto dificil solucionar estos conflictos (principalmente 
 d) los datos que tenia en mi repositorio, editados por mi, se pierden si quiero actualizar el fork?
 Los datos que yo tenia en mi repo nunca los perdi, en realidad siempre mis compañeros agregaron datos.
 Si hay un conflicto me pregunta como se soluciona asique nunca pierdo datos
+
+e) Luego de forkear el repo de Beta, hice lo siguiente:
+275  git clone https://github.com/fgbarrios/TP_SO_i2_Equipo_104.git
+  276  git add .
+  277  git init
+  278  git add .
+  279  git commit -m "archivo fork.txt modificado"
+  280  git push origin master
+  281  git commit -m "archivo fork.txt modificado"
+  282  git remote add origin https//github.com/fgbarrios/TP_SO_i2_Equipo_104
+  283  git remote -v
+  284  git push origin master
+  285  git remote add origin https//github.com/fgbarrios/TP_SO_i2_Equipo_104.git
+  286  git status
+  287  git add .
+  288  git commit -am "archivo fork.txt modificado"
+  289  git commit -m "archivo fork.txt modificado"
+  290  git add fork.txt
+  291  git diff --name-only --cached
+  292  git diff --name-only --staged
+  293  git ls-files -s
+  294  git remote add upstream https://github.com/Ceci-123/TP_SO_i2_Equipo_104.git
+  295  git checkout -b ramaAlfa
+  296  git add .
+  297  git commit -m "cambios en fork.txt por Alfa"
+  298  git push origin ramaAlfa
+
+Participantes:
+Mendioroz, Enrique
+Barrios, Fernando
+Calanna, Cecilia

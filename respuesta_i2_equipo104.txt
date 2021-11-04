@@ -7,3 +7,13 @@ Respuesta a las preguntas:
 
 a) Primero tuve que hacer un git push con mi branch y luego hacer un pull request.
 b) Si
+
+c) puede gamma actualizar su fork al estado de fork de alfa?
+Dos veces cuando mis compañeros subieron sus archivos tuve problemas con el merge.
+Porque ambos habian editado el archivo fork y tuve que manualmente solucionarlo.
+Asique creo que esto se hubiera solucionado si hubieran realizado un pull antes de pushear.
+De todas maneras no resulto dificil solucionar estos conflictos (principalmente porque esto es un ejemplo simple)
+ 
+d) los datos que tenia en mi repositorio, editados por mi, se pierden si quiero actualizar el fork?
+Los datos que yo tenia en mi repo nunca los perdi, en realidad siempre mis compañeros agregaron datos.
+Si hay un conflicto me pregunta como se soluciona asique nunca pierdo datos
